@@ -2,3 +2,4 @@ solutions/
 .DS_Store
 .ipynb_checkpoints/
 out*
+data/SGJobData_cleaned.csv
